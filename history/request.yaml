@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE01ISSM-MFD37-03-DOSTAD000-telemetered-dosta_abcdjm_ctdbp_dcl_instrument
-last_request: '2021-05-04T22:38:27.553296Z'
+last_request: '2021-08-01T00:39:16.384413Z'
 response: https://raw.githubusercontent.com/ooi-data/CE01ISSM-MFD37-03-DOSTAD000-telemetered-dosta_abcdjm_ctdbp_dcl_instrument/main/history/response.json
-status: success
+status: pending
